@@ -1,0 +1,51 @@
+﻿@model MVC.Models.MvcEmpregadosModel
+@{
+    ViewBag.Title = "AddOrEdit";
+}
+
+<div class="form-body">
+    @using (Html.BeginForm())
+    {
+        @Html.HiddenFor(model => model.EmpregadoID)
+
+        <div class="form-group">
+
+            @Html.LabelFor(model => model.Nome)
+            @Html.EditorFor(model => model.Nome)
+            @Html.ValidationMessageFor(model => model.Nome)
+        </div>
+
+        <div class="form-group">
+
+            @Html.LabelFor(model => model.Cargo)
+            @Html.EditorFor(model => model.Cargo)
+            @Html.ValidationMessageFor(model => model.Cargo)
+        </div>
+
+        <div class="form-group">
+
+            @Html.LabelFor(model => model.Idade)
+            @Html.EditorFor(model => model.Idade)
+            @Html.ValidationMessageFor(model => model.Idade)
+        </div>
+
+        <div class="form-group">
+
+            @Html.LabelFor(model => model.Salario)
+            @Html.EditorFor(model => model.Salario)
+            @Html.ValidationMessageFor(model => model.Salario)
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Enviar" class="btn button" />
+            <input type="reset" value="Reset" class="btn button" />
+        </div>
+
+
+    }
+
+
+</div>
+@section scripts{
+    @Scripts.Render("~/bundles/jqueryval");
+}

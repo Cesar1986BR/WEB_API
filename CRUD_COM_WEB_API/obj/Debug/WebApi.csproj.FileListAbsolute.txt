@@ -1,0 +1,106 @@
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\ApplicationInsights.config
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\CRUD_COM_WEB_API.dll.config
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\CRUD_COM_WEB_API.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\CRUD_COM_WEB_API.pdb
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Antlr3.Runtime.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\EntityFramework.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\EntityFramework.SqlServer.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.DependencyCollector.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.Web.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.WindowsServer.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.ApplicationInsights.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.Web.Infrastructure.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Newtonsoft.Json.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Net.Http.Formatting.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.Helpers.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.Http.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.Http.WebHost.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.Mvc.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.Optimization.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.Razor.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.WebPages.Deployment.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.WebPages.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.WebPages.Razor.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\WebGrease.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\EntityFramework.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\EntityFramework.SqlServer.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Newtonsoft.Json.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Net.Http.Formatting.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.Http.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.Http.WebHost.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.Helpers.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.Mvc.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.Optimization.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.Razor.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.WebPages.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.WebPages.Deployment.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\System.Web.WebPages.Razor.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Antlr3.Runtime.pdb
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.ApplicationInsights.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.DependencyCollector.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.WindowsServer.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.Web.xml
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\obj\Debug\CRUD_COM_WEB_API.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\obj\Debug\CRUD_COM_WEB_API.pdb
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\CRUD_COM_WEB_API\obj\Debug\WebApi.csproj.CopyComplete
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\ApplicationInsights.config
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\CRUD_COM_WEB_API.dll.config
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\CRUD_COM_WEB_API.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\CRUD_COM_WEB_API.pdb
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Antlr3.Runtime.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\EntityFramework.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\EntityFramework.SqlServer.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.DependencyCollector.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.Web.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.WindowsServer.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.ApplicationInsights.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.Web.Infrastructure.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Newtonsoft.Json.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Net.Http.Formatting.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.Helpers.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.Http.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.Http.WebHost.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.Mvc.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.Optimization.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.Razor.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.WebPages.Deployment.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.WebPages.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.WebPages.Razor.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\WebGrease.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\EntityFramework.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\EntityFramework.SqlServer.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Newtonsoft.Json.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Net.Http.Formatting.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.Http.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.Http.WebHost.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.Helpers.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.Mvc.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.Optimization.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.Razor.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.WebPages.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.WebPages.Deployment.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\System.Web.WebPages.Razor.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Antlr3.Runtime.pdb
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.ApplicationInsights.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.DependencyCollector.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.WindowsServer.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\bin\Microsoft.AI.Web.xml
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\obj\Debug\WebApi.csproj.CopyComplete
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\obj\Debug\CRUD_COM_WEB_API.dll
+C:\GITHUB\WEB_API\CRUD_COM_WEB_API\obj\Debug\CRUD_COM_WEB_API.pdb

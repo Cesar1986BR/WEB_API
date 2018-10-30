@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CRUDDB_WEBAPIModelStoreContainer" CdmEntityContainer="DBMODEL">
+    <EntitySetMapping Name="Empregados">
+      <EntityTypeMapping TypeName="CRUDDB_WEBAPIModel.Empregados">
+        <MappingFragment StoreEntitySet="Empregados">
+          <ScalarProperty Name="EmpregadoID" ColumnName="EmpregadoID" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Cargo" ColumnName="Cargo" />
+          <ScalarProperty Name="Idade" ColumnName="Idade" />
+          <ScalarProperty Name="Salario" ColumnName="Salario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

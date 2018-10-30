@@ -1,0 +1,5 @@
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\DevStore\DevSore.Domain\bin\Debug\DevSore.Domain.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\DevStore\DevSore.Domain\bin\Debug\DevSore.Domain.pdb
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\DevStore\DevSore.Domain\obj\Debug\DevSore.Domain.csproj.CoreCompileInputs.cache
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\DevStore\DevSore.Domain\obj\Debug\DevSore.Domain.dll
+E:\CRUD COM WEB API\CRUD_COM_WEB_API\DevStore\DevSore.Domain\obj\Debug\DevSore.Domain.pdb

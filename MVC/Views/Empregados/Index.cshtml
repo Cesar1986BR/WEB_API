@@ -1,0 +1,78 @@
+﻿@model IEnumerable<MVC.Models.MvcEmpregadosModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<br>
+<br>
+<p>
+    <a href="@Url.Action("AddOrEdit","Empregados")" class="btn btn-default"><i class="fa fa-plus"></i> Criar Novo</a>
+</p>
+
+<table class="table table-striped">
+    <thead class="table-heading">
+        <tr>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cargo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Idade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Salario)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cargo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salario)
+            </td>
+            <td>
+                <a href="@Url.Action("AddOrEdit","Empregados", new { id = item.EmpregadoID})" class=" btn btn-default"><i class="fa fa-pencil"></i>Editar</a>
+                <a onclick="Delete(@item.EmpregadoID)" class=" btn btn-default"><i class="fa fa-trash"></i>Excluir</a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+@section Scripts{
+<script>
+
+        $(function () {
+
+            var mensagemsucesso = '@TempData["SuccessMessage"]' // modelo de cor mensagem para sucesso
+            if (mensagemsucesso != '')
+                alertify.success(mensagemsucesso);//fica verde
+
+            var msgExcluir = '@TempData["DeleteMessage"]'// estilo de cor mensagem para quando excluir
+           if (msgExcluir != '')
+               alertify.error(msgExcluir);//fica vermelho
+
+        });
+        function Delete(id) {
+            alertify.confirm('Crud Com Web Api', 'Você tem certeza que quer excluir?', function () {
+                window.location.href = '@Url.Action("Delete","Empregados")/'+id;// chama metodo Delete na controler Empregados passando o id
+            }, null);
+        }
+</script>
+
+}
